@@ -17,6 +17,8 @@ evaluation.
 │ ├── iris.csv<br>
 │ ├── lab 1a.ipynb<br>
 │ ├── lab 1b.ipynb<br>
+│ ├── FOML lab 1a.pdf<br>
+│ ├── FOML lab 1b.pdf<br>
 │ ├── *.png<br>
 │ └── README.md<br>
 │<br>
