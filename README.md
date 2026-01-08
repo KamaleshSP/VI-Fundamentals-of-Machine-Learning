@@ -72,6 +72,6 @@ This repository serves as:
 
 ## Author
 
-**Kamalesh S P**\ 
-Full Stack Developer\
-Rajalakshmi Engineering College\
+**Kamalesh S P**<br>
+Full Stack Developer<br>
+Rajalakshmi Engineering College<br>
