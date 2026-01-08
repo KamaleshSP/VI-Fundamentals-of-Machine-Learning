@@ -152,6 +152,6 @@ relationships and predictive behavior.
 ---
 
 ## Author
-Kamalesh S P
+**Kamalesh S P** 
 Full Stack Developer
 Rajalakshmi Engineering College

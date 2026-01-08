@@ -19,12 +19,14 @@ evaluation.
 │ ├── lab 1b.ipynb
 │ ├── *.png
 │ └── README.md
+│
 ├── LAB2/
 │ └── (future experiments)
+│
 ├── LABn/
 │ └── (future experiments)
+│
 └── README.md
-
 
 ---
 
@@ -69,6 +71,7 @@ This repository serves as:
 ---
 
 ## Author
-Kamalesh S P
+
+**Kamalesh S P** 
 Full Stack Developer
 Rajalakshmi Engineering College
