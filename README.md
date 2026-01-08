@@ -13,20 +13,20 @@ evaluation.
 
 ## Repository Structure
 
-├── LAB1/
-│ ├── iris.csv
-│ ├── lab 1a.ipynb
-│ ├── lab 1b.ipynb
-│ ├── *.png
-│ └── README.md
-│
-├── LAB2/
-│ └── (future experiments)
-│
-├── LABn/
-│ └── (future experiments)
-│
-└── README.md
+├── LAB1/<br>
+│ ├── iris.csv<br>
+│ ├── lab 1a.ipynb<br>
+│ ├── lab 1b.ipynb<br>
+│ ├── *.png<br>
+│ └── README.md<br>
+│<br>
+├── LAB2/<br>
+│ └── (future experiments)<br>
+│<br>
+├── LABn/<br>
+│ └── (future experiments)<br>
+│<br>
+└── README.md<br>
 
 ---
 
