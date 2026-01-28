@@ -99,5 +99,5 @@ pdf.add_section('Learning Algorithm',
 "- Linear Regression: For simple trends.\n- ARIMA: Statistical time-series model.\n- LSTM: Neural network for sequential patterns.")
 
 # Output
-pdf.output("138_FOML_Activity_Kamalesh.pdf")
+pdf.output("138_FOML_Activity 1_Kamalesh.pdf")
 print("PDF Generated Successfully")
